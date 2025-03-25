@@ -7,8 +7,8 @@
 💬 Ask me about **Python, Shell Scripting, Git & GitHub, MySQL, and Linux (Ubuntu, Garuda)**\
 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodlodhi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramod-79)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pramodlodhi)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/pramod-79)
 
 ---
 
@@ -30,7 +30,7 @@
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
-![Garuda Linux](https://raw.githubusercontent.com/pramod-79/assets/main/garuda-linux.png)
+[![Garuda Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Garuda-blue-sgs.png/800px-Garuda-blue-sgs.png)](https://garudalinux.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
@@ -45,6 +45,7 @@
 ### ⚡ Fun Fact:
 
 *"Fueled by coffee, driven by code."* ☕
+
 
 
 
