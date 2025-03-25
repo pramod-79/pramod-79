@@ -30,7 +30,7 @@
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
-[![Garuda Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Garuda-blue-sgs.png/800px-Garuda-blue-sgs.png)](https://garudalinux.org/)
+[![Garuda Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Garuda-blue-sgs.png/800px-Garuda-blue-sgs.png)]
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
