@@ -14,10 +14,10 @@
 
 ### 🚀 GitHub Stats:
 
-![Pramod's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramod-79&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramod-79&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramod-79&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramod-79&theme=radical)  
+![Pramod's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramod-79&show_icons=true&theme=light&bg_color=ffffff&title_color=87CEFA&icon_color=87CEFA&text_color=000000)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramod-79&layout=compact&theme=light&bg_color=ffffff&title_color=87CEFA&text_color=000000)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramod-79&theme=light&background=ffffff&ring=87CEFA&fire=87CEFA&sideNums=87CEFA&text_color=000000)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramod-79&theme=light&bg_color=ffffff&color=87CEFA&line=87CEFA&point=87CEFA&area=true)  
 
 ---
 
@@ -30,6 +30,7 @@
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
+[![Garuda Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Garuda-blue-sgs.png/800px-Garuda-blue-sgs.png)](https://garudalinux.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
@@ -37,13 +38,14 @@
 
 ### ☕ Support Me:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pramodlodhi)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/pramodlodhi)
 
 ---
 
 ### ⚡ Fun Fact:
 
 *"Fueled by coffee, driven by code."* ☕
+
 
 
 
