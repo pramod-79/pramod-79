@@ -16,7 +16,7 @@
 
 ![Pramod's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramod-79&show_icons=true&theme=light&bg_color=1E1E1E&title_color=00A6FF&icon_color=00A6FF&text_color=FFFFFF)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramod-79&layout=compact&theme=light&bg_color=1E1E1E&title_color=00A6FF&text_color=FFFFFF)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramod-79&theme=light&background=1E1E1E&ring=00A6FF&fire=00A6FF&sideNums=00A6FF&text_color=FFFFFF)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramod-79)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramod-79&theme=light&bg_color=1E1E1E&color=00A6FF&line=00A6FF&point=00A6FF&area=true)  
 
 ---
