@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on **Docker**\
 🌱 I’m learning **Kubernetes and Advanced Cloud Technologies**\
-💬 Ask me about **Python, Shell Scripting, Git & GitHub, MySQL, and Linux (Ubuntu, Garuda)**\
+💬 Ask me about **Amazon Web services (AWS) , Git & GitHub, MySQL, and Linux (Ubuntu, Garuda)**\
 📫 How to reach me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pramodlodhi)
